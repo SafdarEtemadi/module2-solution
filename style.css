@@ -1,0 +1,64 @@
+h1{
+text-align:center;
+}
+#div1{
+width: 31%;
+height: 150px;
+background-color: gray;
+position:relative;
+display:inline-block;
+margin-right:15px;
+}
+.chicken{
+position:absolute;
+width:100px;
+height:30px;
+background-color:lightgray;
+right:0px;
+top:0px;
+text-align:center;
+border:2px solid black;
+font-weight:bold;
+font-size:20px;
+}
+#div2{
+width: 31%;
+height: 150px;
+background-color: gray;
+position:relative;
+display:inline-block;
+margin-right:15px;
+}
+.beef{
+position:absolute;
+width:100px;
+height:30px;
+background-color:red;
+right:0px;
+top:0px;
+text-align:center;
+border:2px solid black;
+font-weight:bold;
+font-size:20px;
+color:#fff;
+}
+#div3{
+width: 31%;
+height: 150px;
+background-color: gray;
+position:relative;
+display:inline-block;
+}
+.sushi{
+position:absolute;
+width:100px;
+height:30px;
+background-color:lightyellow;
+right:0px;
+top:0px;
+text-align:center;
+border:2px solid black;
+font-weight:bold;
+font-size:20px;
+color:#000;
+}
